@@ -1,0 +1,1 @@
+GOOGL:  falseINTC:  trueMSFT:  trueAAPL:  true
